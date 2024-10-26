@@ -1,2 +1,1 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
-repositories.csv filter=lfs diff=lfs merge=lfs -text
